@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/bsun0802/bsun0802.github.io.git
+	url = https://github.com/liangchen-usc/liangchen-usc.github.io.git
 	branch = main
